@@ -1,0 +1,2366 @@
+[
+    {
+        "name": "Discipline of Fortitude",
+        "cardCode": "01IO012T2"
+    },
+    {
+        "name": "Draven",
+        "cardCode": "01NX020T3"
+    },
+    {
+        "name": "Dawnspeakers",
+        "cardCode": "01DE031"
+    },
+    {
+        "name": "Jinx's Get Excited!",
+        "cardCode": "01PZ040T3"
+    },
+    {
+        "name": "Glacial Storm",
+        "cardCode": "01FR024T2"
+    },
+    {
+        "name": "Teemo",
+        "cardCode": "01PZ008T2"
+    },
+    {
+        "name": "Lucian",
+        "cardCode": "01DE022"
+    },
+    {
+        "name": "Yasuo",
+        "cardCode": "01IO015T1"
+    },
+    {
+        "name": "Heimerdinger",
+        "cardCode": "01PZ056"
+    },
+    {
+        "name": "Keeper of Masks",
+        "cardCode": "01IO020"
+    },
+    {
+        "name": "Tryndamere's Battle Fury",
+        "cardCode": "01FR039T1"
+    },
+    {
+        "name": "Augmented Experimenter",
+        "cardCode": "01PZ013"
+    },
+    {
+        "name": "Mobilize",
+        "cardCode": "01DE019"
+    },
+    {
+        "name": "Culling Strike",
+        "cardCode": "01NX004"
+    },
+    {
+        "name": "Parade Electrorig",
+        "cardCode": "01PZ007"
+    },
+    {
+        "name": "Heimerdinger",
+        "cardCode": "01PZ056T10"
+    },
+    {
+        "name": "Phantom Prankster",
+        "cardCode": "01SI038"
+    },
+    {
+        "name": "Lux's Prismatic Barrier",
+        "cardCode": "01DE042T1"
+    },
+    {
+        "name": "Academy Prodigy",
+        "cardCode": "01PZ018"
+    },
+    {
+        "name": "Herald of Spring",
+        "cardCode": "01IO045"
+    },
+    {
+        "name": "Fae Bladetwirler",
+        "cardCode": "01IO008"
+    },
+    {
+        "name": "Crimson Curator",
+        "cardCode": "01NX048"
+    },
+    {
+        "name": "Iceborn Legacy",
+        "cardCode": "01FR006"
+    },
+    {
+        "name": "Ghost",
+        "cardCode": "01IO022"
+    },
+    {
+        "name": "Omen Hawk",
+        "cardCode": "01FR022"
+    },
+    {
+        "name": "Harsh Winds",
+        "cardCode": "01FR042"
+    },
+    {
+        "name": "Glimpse Beyond",
+        "cardCode": "01SI049"
+    },
+    {
+        "name": "Elise's Crawling Sensation",
+        "cardCode": "01SI053T1"
+    },
+    {
+        "name": "Braum",
+        "cardCode": "01FR009"
+    },
+    {
+        "name": "Ancient Crocolith",
+        "cardCode": "01SI057"
+    },
+    {
+        "name": "Swiftwing Lancer",
+        "cardCode": "01DE010"
+    },
+    {
+        "name": "Soul Shepherd",
+        "cardCode": "01SI023"
+    },
+    {
+        "name": "Eager Apprentice",
+        "cardCode": "01PZ019"
+    },
+    {
+        "name": "Darius",
+        "cardCode": "01NX038"
+    },
+    {
+        "name": "Kinkou Lifeblade",
+        "cardCode": "01IO040"
+    },
+    {
+        "name": "Rimefang Wolf",
+        "cardCode": "01FR018"
+    },
+    {
+        "name": "Vanguard Defender",
+        "cardCode": "01DE020"
+    },
+    {
+        "name": "Battlesmith",
+        "cardCode": "01DE034"
+    },
+    {
+        "name": "Tianna Crownguard",
+        "cardCode": "01DE002"
+    },
+    {
+        "name": "Arachnoid Host",
+        "cardCode": "01NX023"
+    },
+    {
+        "name": "Karma",
+        "cardCode": "01IO041T1"
+    },
+    {
+        "name": "Garen",
+        "cardCode": "01DE012T1"
+    },
+    {
+        "name": "Stand Alone",
+        "cardCode": "01DE017"
+    },
+    {
+        "name": "Jinx",
+        "cardCode": "01PZ040"
+    },
+    {
+        "name": "Decisive Maneuver",
+        "cardCode": "01NX013"
+    },
+    {
+        "name": "Fiora",
+        "cardCode": "01DE045"
+    },
+    {
+        "name": "Puffcap Peddler",
+        "cardCode": "01PZ025"
+    },
+    {
+        "name": "Brightsteel Formation",
+        "cardCode": "01DE052"
+    },
+    {
+        "name": "Super Mega Death Rocket!",
+        "cardCode": "01PZ040T2"
+    },
+    {
+        "name": "Elise",
+        "cardCode": "01SI053"
+    },
+    {
+        "name": "Relentless Pursuit",
+        "cardCode": "01DE021"
+    },
+    {
+        "name": "Magnum Opus",
+        "cardCode": "01PZ048T1"
+    },
+    {
+        "name": "Paralyzing Bite",
+        "cardCode": "01NX046T1"
+    },
+    {
+        "name": "Transfusion",
+        "cardCode": "01NX047"
+    },
+    {
+        "name": "Onslaught of Shadows",
+        "cardCode": "01SI010"
+    },
+    {
+        "name": "Legion Saboteur",
+        "cardCode": "01NX040"
+    },
+    {
+        "name": "Hecarim",
+        "cardCode": "01SI042T1"
+    },
+    {
+        "name": "Scrap Scuttler",
+        "cardCode": "01PZ032"
+    },
+    {
+        "name": "Zed",
+        "cardCode": "01IO009T2"
+    },
+    {
+        "name": "Vilemaw",
+        "cardCode": "01SI027T1"
+    },
+    {
+        "name": "Greenglade Elder",
+        "cardCode": "01IO014"
+    },
+    {
+        "name": "Darius",
+        "cardCode": "01NX038T2"
+    },
+    {
+        "name": "Lucian's Relentless Pursuit",
+        "cardCode": "01DE022T2"
+    },
+    {
+        "name": "Jury-Rig",
+        "cardCode": "01PZ028"
+    },
+    {
+        "name": "Detain",
+        "cardCode": "01DE025"
+    },
+    {
+        "name": "Avarosan Marksman",
+        "cardCode": "01FR036"
+    },
+    {
+        "name": "Nimble Poro",
+        "cardCode": "01IO005"
+    },
+    {
+        "name": "Scarthane Steffen",
+        "cardCode": "01FR045"
+    },
+    {
+        "name": "Navori Conspirator",
+        "cardCode": "01IO044"
+    },
+    {
+        "name": "Jubilant Poro",
+        "cardCode": "01FR008T1"
+    },
+    {
+        "name": "Shatter",
+        "cardCode": "01FR055"
+    },
+    {
+        "name": "Crystal Arrow",
+        "cardCode": "01FR038T3"
+    },
+    {
+        "name": "Arachnoid Sentry",
+        "cardCode": "01NX046"
+    },
+    {
+        "name": "Rising Spell Force",
+        "cardCode": "01PZ050"
+    },
+    {
+        "name": "Mk3: Floor-B-Gone",
+        "cardCode": "01PZ056T6"
+    },
+    {
+        "name": "Jeweled Protector",
+        "cardCode": "01IO023"
+    },
+    {
+        "name": "Cursed Keeper",
+        "cardCode": "01SI048"
+    },
+    {
+        "name": "Undermine",
+        "cardCode": "01PZ054T1"
+    },
+    {
+        "name": "Impersonate",
+        "cardCode": "01PZ030T1"
+    },
+    {
+        "name": "Brothers' Bond",
+        "cardCode": "01NX025"
+    },
+    {
+        "name": "House Spider",
+        "cardCode": "01NX055"
+    },
+    {
+        "name": "Judgment",
+        "cardCode": "01DE007"
+    },
+    {
+        "name": "Used Cask Salesman",
+        "cardCode": "01PZ017"
+    },
+    {
+        "name": "Sump Dredger",
+        "cardCode": "01PZ038"
+    },
+    {
+        "name": "Mk2: Evolution Turret",
+        "cardCode": "01PZ056T7"
+    },
+    {
+        "name": "Scribe of Sorrows",
+        "cardCode": "01SI018"
+    },
+    {
+        "name": "Teemo's Mushroom Cloud",
+        "cardCode": "01PZ008T1"
+    },
+    {
+        "name": "Kalista",
+        "cardCode": "01SI030T2"
+    },
+    {
+        "name": "Entreat",
+        "cardCode": "01FR029"
+    },
+    {
+        "name": "Night Harvest",
+        "cardCode": "01SI035T1"
+    },
+    {
+        "name": "Kalista",
+        "cardCode": "01SI030"
+    },
+    {
+        "name": "Sown Seeds",
+        "cardCode": "01IO029"
+    },
+    {
+        "name": "Ezreal",
+        "cardCode": "01PZ036T1"
+    },
+    {
+        "name": "Unscarred Reaver",
+        "cardCode": "01FR035"
+    },
+    {
+        "name": "Death Mark",
+        "cardCode": "01IO003"
+    },
+    {
+        "name": "Jae Medarda",
+        "cardCode": "01PZ035"
+    },
+    {
+        "name": "Shady Character",
+        "cardCode": "01PZ030"
+    },
+    {
+        "name": "Shadow Flare",
+        "cardCode": "01IO047"
+    },
+    {
+        "name": "Corina Veraza",
+        "cardCode": "01PZ048"
+    },
+    {
+        "name": "Catalyst of Aeons",
+        "cardCode": "01FR012"
+    },
+    {
+        "name": "Draven's Whirling Death",
+        "cardCode": "01NX020T2"
+    },
+    {
+        "name": "Crimson Disciple",
+        "cardCode": "01NX030"
+    },
+    {
+        "name": "Enraged Yeti",
+        "cardCode": "01FR028"
+    },
+    {
+        "name": "Mushroom Cloud",
+        "cardCode": "01PZ010"
+    },
+    {
+        "name": "Arena Battlecaster",
+        "cardCode": "01NX007"
+    },
+    {
+        "name": "Zaunite Urchin",
+        "cardCode": "01PZ045"
+    },
+    {
+        "name": "Inspiring Mentor",
+        "cardCode": "01IO026"
+    },
+    {
+        "name": "Reckless Research",
+        "cardCode": "01PZ013T1"
+    },
+    {
+        "name": "Back Alley Barkeep",
+        "cardCode": "01PZ002"
+    },
+    {
+        "name": "Spiderling",
+        "cardCode": "01SI002"
+    },
+    {
+        "name": "Scuttlegeist",
+        "cardCode": "01SI005"
+    },
+    {
+        "name": "Ashe",
+        "cardCode": "01FR038"
+    },
+    {
+        "name": "Laurent Duelist",
+        "cardCode": "01DE055"
+    },
+    {
+        "name": "Trueshot Barrage",
+        "cardCode": "01PZ004"
+    },
+    {
+        "name": "Mageseeker Inciter",
+        "cardCode": "01DE048"
+    },
+    {
+        "name": "Dawn and Dusk",
+        "cardCode": "01IO024"
+    },
+    {
+        "name": "Spider Queen Elise",
+        "cardCode": "01SI053T2"
+    },
+    {
+        "name": "Vanguard Bannerman",
+        "cardCode": "01DE001"
+    },
+    {
+        "name": "Daring Poro",
+        "cardCode": "01PZ020"
+    },
+    {
+        "name": "Legion Marauder",
+        "cardCode": "01NX021"
+    },
+    {
+        "name": "Avalanche",
+        "cardCode": "01FR020"
+    },
+    {
+        "name": "Counterfeit Copies",
+        "cardCode": "01PZ046"
+    },
+    {
+        "name": "Scaled Snapper",
+        "cardCode": "01IO028"
+    },
+    {
+        "name": "Yeti Yearling",
+        "cardCode": "01FR014"
+    },
+    {
+        "name": "Sinister Poro",
+        "cardCode": "01SI037"
+    },
+    {
+        "name": "Crowd Favorite",
+        "cardCode": "01NX009"
+    },
+    {
+        "name": "Shadow Assassin",
+        "cardCode": "01IO057"
+    },
+    {
+        "name": "Scaled Snapper",
+        "cardCode": "01IO028T2"
+    },
+    {
+        "name": "Boomcrew Rookie",
+        "cardCode": "01PZ054"
+    },
+    {
+        "name": "Draven",
+        "cardCode": "01NX020"
+    },
+    {
+        "name": "Mystic Shot",
+        "cardCode": "01PZ052"
+    },
+    {
+        "name": "Anivia's Harsh Winds",
+        "cardCode": "01FR024T1"
+    },
+    {
+        "name": "War Chefs",
+        "cardCode": "01DE043"
+    },
+    {
+        "name": "Ezreal",
+        "cardCode": "01PZ036"
+    },
+    {
+        "name": "Scaled Snapper",
+        "cardCode": "01IO028T1"
+    },
+    {
+        "name": "Escaped Abomination",
+        "cardCode": "01SI048T1"
+    },
+    {
+        "name": "T-Hex",
+        "cardCode": "01PZ015"
+    },
+    {
+        "name": "Reckoning",
+        "cardCode": "01NX053"
+    },
+    {
+        "name": "Hextech Transmogulator",
+        "cardCode": "01PZ005"
+    },
+    {
+        "name": "Darius's Decimate",
+        "cardCode": "01NX038T1"
+    },
+    {
+        "name": "Thresh",
+        "cardCode": "01SI052"
+    },
+    {
+        "name": "Lucian",
+        "cardCode": "01DE022T1"
+    },
+    {
+        "name": "Plucky Poro",
+        "cardCode": "01DE049"
+    },
+    {
+        "name": "Garen's Judgment",
+        "cardCode": "01DE012T2"
+    },
+    {
+        "name": "Commander Ledros",
+        "cardCode": "01SI033"
+    },
+    {
+        "name": "Midenstokke Henchmen",
+        "cardCode": "01PZ021"
+    },
+    {
+        "name": "The Harrowing",
+        "cardCode": "01SI003"
+    },
+    {
+        "name": "The Undying",
+        "cardCode": "01SI041"
+    },
+    {
+        "name": "Sabotage",
+        "cardCode": "01NX040T1"
+    },
+    {
+        "name": "Stalking Wolf",
+        "cardCode": "01FR049"
+    },
+    {
+        "name": "Shen",
+        "cardCode": "01IO032T1"
+    },
+    {
+        "name": "Laurent Chevalier",
+        "cardCode": "01DE053"
+    },
+    {
+        "name": "Absorb Soul",
+        "cardCode": "01SI045"
+    },
+    {
+        "name": "Avarosan Outriders",
+        "cardCode": "01FR037"
+    },
+    {
+        "name": "Crawling Sensation",
+        "cardCode": "01SI036"
+    },
+    {
+        "name": "Braum",
+        "cardCode": "01FR009T1"
+    },
+    {
+        "name": "Shadow Fiend",
+        "cardCode": "01IO013"
+    },
+    {
+        "name": "Statikk Shock",
+        "cardCode": "01PZ031"
+    },
+    {
+        "name": "Spectral Rider",
+        "cardCode": "01SI024"
+    },
+    {
+        "name": "Tortured Prodigy",
+        "cardCode": "01SI051"
+    },
+    {
+        "name": "Alpha Wildclaw",
+        "cardCode": "01FR026"
+    },
+    {
+        "name": "Intimidating Roar",
+        "cardCode": "01NX054"
+    },
+    {
+        "name": "Crimson Pact",
+        "cardCode": "01NX006T2"
+    },
+    {
+        "name": "Golden Crushbot",
+        "cardCode": "01PZ059"
+    },
+    {
+        "name": "Legion Veteran",
+        "cardCode": "01NX029"
+    },
+    {
+        "name": "Brittle Steel",
+        "cardCode": "01FR030"
+    },
+    {
+        "name": "Shiraza the Blade",
+        "cardCode": "01NX014"
+    },
+    {
+        "name": "Oblivious Islander",
+        "cardCode": "01SI012"
+    },
+    {
+        "name": "Thresh's The Box",
+        "cardCode": "01SI052T2"
+    },
+    {
+        "name": "Rummage",
+        "cardCode": "01PZ001"
+    },
+    {
+        "name": "Katarina",
+        "cardCode": "01NX042T2"
+    },
+    {
+        "name": "Scarmother Vrynna",
+        "cardCode": "01FR013"
+    },
+    {
+        "name": "Scrapdash Assembly",
+        "cardCode": "01PZ057"
+    },
+    {
+        "name": "Iron Harbinger",
+        "cardCode": "01SI031"
+    },
+    {
+        "name": "Black Spear",
+        "cardCode": "01SI034"
+    },
+    {
+        "name": "Hapless Aristocrat",
+        "cardCode": "01SI043"
+    },
+    {
+        "name": "Rush",
+        "cardCode": "01IO018"
+    },
+    {
+        "name": "Heimerdinger's Progress Day!",
+        "cardCode": "01PZ056T3"
+    },
+    {
+        "name": "Winter's Breath",
+        "cardCode": "01FR019"
+    },
+    {
+        "name": "Remembrance",
+        "cardCode": "01DE033"
+    },
+    {
+        "name": "Stirred Spirits",
+        "cardCode": "01SI009"
+    },
+    {
+        "name": "Thermogenic Beam",
+        "cardCode": "01PZ027"
+    },
+    {
+        "name": "Fiora",
+        "cardCode": "01DE045T1"
+    },
+    {
+        "name": "Avarosan Hearthguard",
+        "cardCode": "01FR041"
+    },
+    {
+        "name": "Captain Farron",
+        "cardCode": "01NX051"
+    },
+    {
+        "name": "Poro Herder",
+        "cardCode": "01FR025"
+    },
+    {
+        "name": "Lux",
+        "cardCode": "01DE042T2"
+    },
+    {
+        "name": "Legion Rearguard",
+        "cardCode": "01NX012"
+    },
+    {
+        "name": "Mageseeker Conservator",
+        "cardCode": "01DE024"
+    },
+    {
+        "name": "Unleashed Spirit",
+        "cardCode": "01SI007T1"
+    },
+    {
+        "name": "Vanguard Firstblade",
+        "cardCode": "01DE056"
+    },
+    {
+        "name": "Blade's Edge",
+        "cardCode": "01NX043"
+    },
+    {
+        "name": "Silverwing Diver",
+        "cardCode": "01DE030"
+    },
+    {
+        "name": "Staggering Strikes",
+        "cardCode": "01IO056T1"
+    },
+    {
+        "name": "Kalista's Black Spear",
+        "cardCode": "01SI030T1"
+    },
+    {
+        "name": "Legion Grenadier",
+        "cardCode": "01NX037"
+    },
+    {
+        "name": "Decimate",
+        "cardCode": "01NX002"
+    },
+    {
+        "name": "Zephyr Sage",
+        "cardCode": "01IO016"
+    },
+    {
+        "name": "Frenzied Skitterer",
+        "cardCode": "01SI056"
+    },
+    {
+        "name": "Legion General",
+        "cardCode": "01NX010"
+    },
+    {
+        "name": "Legion Drummer",
+        "cardCode": "01NX017"
+    },
+    {
+        "name": "Silverwing Vanguard",
+        "cardCode": "01DE004"
+    },
+    {
+        "name": "Vengeance",
+        "cardCode": "01SI001"
+    },
+    {
+        "name": "Laurent Protege",
+        "cardCode": "01DE011"
+    },
+    {
+        "name": "Greenglade Lookout",
+        "cardCode": "01IO036"
+    },
+    {
+        "name": "Astute Academic",
+        "cardCode": "01PZ055"
+    },
+    {
+        "name": "Teemo",
+        "cardCode": "01PZ008"
+    },
+    {
+        "name": "Mk5: Rocket Blaster",
+        "cardCode": "01PZ056T2"
+    },
+    {
+        "name": "Unlicensed Innovation",
+        "cardCode": "01PZ014"
+    },
+    {
+        "name": "Succession",
+        "cardCode": "01DE047"
+    },
+    {
+        "name": "Arena Bookie",
+        "cardCode": "01NX003"
+    },
+    {
+        "name": "Whirling Death",
+        "cardCode": "01NX011"
+    },
+    {
+        "name": "Vanguard Lookout",
+        "cardCode": "01DE046"
+    },
+    {
+        "name": "Scarmaiden Reaver",
+        "cardCode": "01FR054"
+    },
+    {
+        "name": "Purify",
+        "cardCode": "01DE050"
+    },
+    {
+        "name": "Tarkaz's Fury",
+        "cardCode": "01FR021T1"
+    },
+    {
+        "name": "Heart of the Fluft",
+        "cardCode": "01FR043"
+    },
+    {
+        "name": "Snow Hare",
+        "cardCode": "01FR049T1"
+    },
+    {
+        "name": "Wyrding Stones",
+        "cardCode": "01FR033"
+    },
+    {
+        "name": "The Box",
+        "cardCode": "01SI019"
+    },
+    {
+        "name": "Final Spark",
+        "cardCode": "01DE042T3"
+    },
+    {
+        "name": "Minah Swiftfoot",
+        "cardCode": "01IO033"
+    },
+    {
+        "name": "Vision",
+        "cardCode": "01NX039"
+    },
+    {
+        "name": "Icevale Archer",
+        "cardCode": "01FR011"
+    },
+    {
+        "name": "Sumpsnipe Scavenger",
+        "cardCode": "01PZ034"
+    },
+    {
+        "name": "Elixir of Iron",
+        "cardCode": "01FR004"
+    },
+    {
+        "name": "Kindly Tavernkeeper",
+        "cardCode": "01FR050"
+    },
+    {
+        "name": "Illegal Contraption",
+        "cardCode": "01PZ014T1"
+    },
+    {
+        "name": "Trifarian Shieldbreaker",
+        "cardCode": "01NX041"
+    },
+    {
+        "name": "Tryndamere",
+        "cardCode": "01FR039T2"
+    },
+    {
+        "name": "Ashe",
+        "cardCode": "01FR038T2"
+    },
+    {
+        "name": "Accelerated Purrsuit",
+        "cardCode": "01PZ060"
+    },
+    {
+        "name": "Yasuo",
+        "cardCode": "01IO015"
+    },
+    {
+        "name": "Ritual of Renewal",
+        "cardCode": "01IO001"
+    },
+    {
+        "name": "Dauntless Vanguard",
+        "cardCode": "01DE016"
+    },
+    {
+        "name": "Stand United",
+        "cardCode": "01IO010"
+    },
+    {
+        "name": "Twin Disciplines",
+        "cardCode": "01IO012"
+    },
+    {
+        "name": "Balesight",
+        "cardCode": "01FR052T1"
+    },
+    {
+        "name": "Mageseeker Persuader",
+        "cardCode": "01DE040"
+    },
+    {
+        "name": "Minotaur Reckoner",
+        "cardCode": "01NX036"
+    },
+    {
+        "name": "Battering Ram",
+        "cardCode": "01NX044"
+    },
+    {
+        "name": "Vanguard Squire",
+        "cardCode": "01DE036"
+    },
+    {
+        "name": "Ravenous Butcher",
+        "cardCode": "01SI011"
+    },
+    {
+        "name": "Zed's Shadowshift",
+        "cardCode": "01IO009T3"
+    },
+    {
+        "name": "Hecarim's Onslaught of Shadows",
+        "cardCode": "01SI042T2"
+    },
+    {
+        "name": "Riposte",
+        "cardCode": "01DE037"
+    },
+    {
+        "name": "Mk7: Armored Stomper",
+        "cardCode": "01PZ056T5"
+    },
+    {
+        "name": "Fresh Offerings",
+        "cardCode": "01SI027"
+    },
+    {
+        "name": "Assembly Bot",
+        "cardCode": "01PZ003"
+    },
+    {
+        "name": "Windfarer Hatchling",
+        "cardCode": "01IO021"
+    },
+    {
+        "name": "Poro Snax",
+        "cardCode": "01FR016"
+    },
+    {
+        "name": "Crimson Aristocrat",
+        "cardCode": "01NX005"
+    },
+    {
+        "name": "Jinx",
+        "cardCode": "01PZ040T1"
+    },
+    {
+        "name": "Battle Fury",
+        "cardCode": "01FR005"
+    },
+    {
+        "name": "Reinforcements",
+        "cardCode": "01DE014"
+    },
+    {
+        "name": "Chain Vest",
+        "cardCode": "01DE013"
+    },
+    {
+        "name": "Zed",
+        "cardCode": "01IO009"
+    },
+    {
+        "name": "Katarina's Death Lotus",
+        "cardCode": "01NX042T1"
+    },
+    {
+        "name": "Trifarian Hopeful",
+        "cardCode": "01NX016"
+    },
+    {
+        "name": "Braum's Take Heart",
+        "cardCode": "01FR009T2"
+    },
+    {
+        "name": "Mistwraith",
+        "cardCode": "01SI014"
+    },
+    {
+        "name": "Elixir of Wrath",
+        "cardCode": "01NX027"
+    },
+    {
+        "name": "Silent Shadowseer",
+        "cardCode": "01IO027"
+    },
+    {
+        "name": "Haunted Relic",
+        "cardCode": "01SI007"
+    },
+    {
+        "name": "Mark of the Isles",
+        "cardCode": "01SI022"
+    },
+    {
+        "name": "Shen",
+        "cardCode": "01IO032"
+    },
+    {
+        "name": "Precious Pet",
+        "cardCode": "01NX015"
+    },
+    {
+        "name": "Grasp of the Undying",
+        "cardCode": "01SI054"
+    },
+    {
+        "name": "Chempunk Shredder",
+        "cardCode": "01PZ044"
+    },
+    {
+        "name": "Lonely Poro",
+        "cardCode": "01FR008"
+    },
+    {
+        "name": "Karma",
+        "cardCode": "01IO041"
+    },
+    {
+        "name": "Possession",
+        "cardCode": "01SI006"
+    },
+    {
+        "name": "Radiant Guardian",
+        "cardCode": "01DE015"
+    },
+    {
+        "name": "Eminent Benefactor",
+        "cardCode": "01PZ029"
+    },
+    {
+        "name": "Death Lotus",
+        "cardCode": "01NX050"
+    },
+    {
+        "name": "Mk0: Windup Shredder",
+        "cardCode": "01PZ056T1"
+    },
+    {
+        "name": "Cloud Drinker",
+        "cardCode": "01IO031"
+    },
+    {
+        "name": "Laurent Bladekeeper",
+        "cardCode": "01DE003"
+    },
+    {
+        "name": "Warmother's Call",
+        "cardCode": "01FR023"
+    },
+    {
+        "name": "Purrsuit of Perfection",
+        "cardCode": "01PZ033"
+    },
+    {
+        "name": "Blade of Ledros",
+        "cardCode": "01SI033T1"
+    },
+    {
+        "name": "Funsmith",
+        "cardCode": "01PZ051"
+    },
+    {
+        "name": "Splinter Soul",
+        "cardCode": "01SI028"
+    },
+    {
+        "name": "Atrocity",
+        "cardCode": "01SI025"
+    },
+    {
+        "name": "Yasuo's Steel Tempest",
+        "cardCode": "01IO015T2"
+    },
+    {
+        "name": "Recall",
+        "cardCode": "01IO011"
+    },
+    {
+        "name": "Living Shadow",
+        "cardCode": "01IO009T1"
+    },
+    {
+        "name": "Will of Ionia",
+        "cardCode": "01IO002"
+    },
+    {
+        "name": "Fatal Strike",
+        "cardCode": "01IO007T1"
+    },
+    {
+        "name": "Feral Mystic",
+        "cardCode": "01FR047"
+    },
+    {
+        "name": "Skyward Strikes",
+        "cardCode": "01IO033T1"
+    },
+    {
+        "name": "Navori Bladescout",
+        "cardCode": "01IO017"
+    },
+    {
+        "name": "Icy Yeti",
+        "cardCode": "01FR056"
+    },
+    {
+        "name": "Shunpo",
+        "cardCode": "01NX056"
+    },
+    {
+        "name": "Poison Puffcap",
+        "cardCode": "01PZ022"
+    },
+    {
+        "name": "Face-Melter",
+        "cardCode": "01PZ044T2"
+    },
+    {
+        "name": "Mist's Call",
+        "cardCode": "01SI046"
+    },
+    {
+        "name": "Catastrophe",
+        "cardCode": "01PZ033T1"
+    },
+    {
+        "name": "Trifarian Assessor",
+        "cardCode": "01NX033"
+    },
+    {
+        "name": "Prismatic Barrier",
+        "cardCode": "01DE032"
+    },
+    {
+        "name": "Vladimir",
+        "cardCode": "01NX006T1"
+    },
+    {
+        "name": "Professor von Yipp",
+        "cardCode": "01PZ023"
+    },
+    {
+        "name": "Mk1: Wrenchbot",
+        "cardCode": "01PZ056T4"
+    },
+    {
+        "name": "Tryndamere",
+        "cardCode": "01FR039"
+    },
+    {
+        "name": "Bull Elnuk",
+        "cardCode": "01FR027"
+    },
+    {
+        "name": "Brood Awakening",
+        "cardCode": "01SI050"
+    },
+    {
+        "name": "Pack Mentality",
+        "cardCode": "01FR057"
+    },
+    {
+        "name": "Unstable Voltician",
+        "cardCode": "01PZ024"
+    },
+    {
+        "name": "Wraithcaller",
+        "cardCode": "01SI016"
+    },
+    {
+        "name": "Sparring Student",
+        "cardCode": "01IO042"
+    },
+    {
+        "name": "Ashe's Flash Freeze",
+        "cardCode": "01FR038T1"
+    },
+    {
+        "name": "Tarkaz the Tribeless",
+        "cardCode": "01FR021"
+    },
+    {
+        "name": "Greenglade Duo",
+        "cardCode": "01IO006"
+    },
+    {
+        "name": "Blood for Blood",
+        "cardCode": "01NX052"
+    },
+    {
+        "name": "Kinkou Wayfinder",
+        "cardCode": "01IO050"
+    },
+    {
+        "name": "Single Combat",
+        "cardCode": "01DE026"
+    },
+    {
+        "name": "Katarina",
+        "cardCode": "01NX042"
+    },
+    {
+        "name": "Shark Chariot",
+        "cardCode": "01SI021"
+    },
+    {
+        "name": "Avarosan Trapper",
+        "cardCode": "01FR048"
+    },
+    {
+        "name": "Progress Day!",
+        "cardCode": "01PZ049"
+    },
+    {
+        "name": "Yusari",
+        "cardCode": "01IO048"
+    },
+    {
+        "name": "Troop of Elnuks",
+        "cardCode": "01FR017"
+    },
+    {
+        "name": "Health Potion",
+        "cardCode": "01IO004"
+    },
+    {
+        "name": "Chronicler of Ruin",
+        "cardCode": "01SI032"
+    },
+    {
+        "name": "Plaza Guardian",
+        "cardCode": "01PZ006"
+    },
+    {
+        "name": "Ren Shadowblade",
+        "cardCode": "01IO007"
+    },
+    {
+        "name": "Anivia",
+        "cardCode": "01FR024T3"
+    },
+    {
+        "name": "Ethereal Remitter",
+        "cardCode": "01SI058"
+    },
+    {
+        "name": "Clump of Whumps",
+        "cardCode": "01PZ053"
+    },
+    {
+        "name": "Emerald Awakener",
+        "cardCode": "01IO053"
+    },
+    {
+        "name": "Take Heart",
+        "cardCode": "01FR046"
+    },
+    {
+        "name": "Savage Reckoner",
+        "cardCode": "01NX045"
+    },
+    {
+        "name": "En Garde",
+        "cardCode": "01DE027"
+    },
+    {
+        "name": "Spectral Matron",
+        "cardCode": "01SI044"
+    },
+    {
+        "name": "Rimetusk Shaman",
+        "cardCode": "01FR040"
+    },
+    {
+        "name": "Deny",
+        "cardCode": "01IO049"
+    },
+    {
+        "name": "Trifarian Gloryseeker",
+        "cardCode": "01NX031"
+    },
+    {
+        "name": "Flame Chompers!",
+        "cardCode": "01PZ012"
+    },
+    {
+        "name": "Ancient Yeti",
+        "cardCode": "01FR031"
+    },
+    {
+        "name": "Vanguard Sergeant",
+        "cardCode": "01DE006"
+    },
+    {
+        "name": "Bullseye",
+        "cardCode": "01FR036T1"
+    },
+    {
+        "name": "Mighty Poro",
+        "cardCode": "01FR053"
+    },
+    {
+        "name": "Navori Brigand",
+        "cardCode": "01IO052T1"
+    },
+    {
+        "name": "Arachnoid Horror",
+        "cardCode": "01SI039"
+    },
+    {
+        "name": "Get Excited!",
+        "cardCode": "01PZ039"
+    },
+    {
+        "name": "Mk6: Stormlobber",
+        "cardCode": "01PZ056T9"
+    },
+    {
+        "name": "Senna, Sentinel of Light",
+        "cardCode": "01DE038"
+    },
+    {
+        "name": "Bloodsworn Pledge",
+        "cardCode": "01FR010"
+    },
+    {
+        "name": "Navori Highwayman",
+        "cardCode": "01IO052"
+    },
+    {
+        "name": "The Empyrean",
+        "cardCode": "01IO030"
+    },
+    {
+        "name": "Back to Back",
+        "cardCode": "01DE041"
+    },
+    {
+        "name": "Vladimir",
+        "cardCode": "01NX006"
+    },
+    {
+        "name": "Flash of Brilliance",
+        "cardCode": "01PZ016"
+    },
+    {
+        "name": "Ezreal's Mystic Shot",
+        "cardCode": "01PZ036T2"
+    },
+    {
+        "name": "For Demacia!",
+        "cardCode": "01DE035"
+    },
+    {
+        "name": "Basilisk Rider",
+        "cardCode": "01NX008"
+    },
+    {
+        "name": "Greenglade Caretaker",
+        "cardCode": "01IO019"
+    },
+    {
+        "name": "Radiant Strike",
+        "cardCode": "01DE018"
+    },
+    {
+        "name": "Insight of Ages",
+        "cardCode": "01IO054"
+    },
+    {
+        "name": "The Rekindler",
+        "cardCode": "01SI020"
+    },
+    {
+        "name": "Flash Freeze",
+        "cardCode": "01FR001"
+    },
+    {
+        "name": "Chump Whump",
+        "cardCode": "01PZ058"
+    },
+    {
+        "name": "Hecarim",
+        "cardCode": "01SI042"
+    },
+    {
+        "name": "Brightsteel Protector",
+        "cardCode": "01DE009"
+    },
+    {
+        "name": "Withering Wail",
+        "cardCode": "01SI029"
+    },
+    {
+        "name": "Amateur Aeronaut",
+        "cardCode": "01PZ009"
+    },
+    {
+        "name": "Shen's Stand United",
+        "cardCode": "01IO032T2"
+    },
+    {
+        "name": "Rhasa the Sunderer",
+        "cardCode": "01SI035"
+    },
+    {
+        "name": "Anivia",
+        "cardCode": "01FR024"
+    },
+    {
+        "name": "Affectionate Poro",
+        "cardCode": "01NX034"
+    },
+    {
+        "name": "Intrepid Mariner",
+        "cardCode": "01PZ042"
+    },
+    {
+        "name": "Lux",
+        "cardCode": "01DE042"
+    },
+    {
+        "name": "Fiora's Riposte",
+        "cardCode": "01DE045T2"
+    },
+    {
+        "name": "Draven's Biggest Fan",
+        "cardCode": "01NX035"
+    },
+    {
+        "name": "Glacial Storm",
+        "cardCode": "01FR024T5"
+    },
+    {
+        "name": "Reckless Trifarian",
+        "cardCode": "01NX026"
+    },
+    {
+        "name": "Darkwater Scourge",
+        "cardCode": "01SI004"
+    },
+    {
+        "name": "Steel Tempest",
+        "cardCode": "01IO046"
+    },
+    {
+        "name": "Cithria of Cloudfield",
+        "cardCode": "01DE039"
+    },
+    {
+        "name": "Vladimir's Transfusion",
+        "cardCode": "01NX006T3"
+    },
+    {
+        "name": "Fluft of Poros",
+        "cardCode": "01FR043T1"
+    },
+    {
+        "name": "Fleetfeather Tracker",
+        "cardCode": "01DE029"
+    },
+    {
+        "name": "Spirit's Refuge",
+        "cardCode": "01IO037"
+    },
+    {
+        "name": "Mk4: Apex Turret",
+        "cardCode": "01PZ056T8"
+    },
+    {
+        "name": "Eggnivia",
+        "cardCode": "01FR024T4"
+    },
+    {
+        "name": "Sumpworks Map",
+        "cardCode": "01PZ026"
+    },
+    {
+        "name": "Might",
+        "cardCode": "01NX019"
+    },
+    {
+        "name": "Vanguard Cavalry",
+        "cardCode": "01DE028"
+    },
+    {
+        "name": "Rivershaper",
+        "cardCode": "01IO043"
+    },
+    {
+        "name": "Chempunk Pickpocket",
+        "cardCode": "01PZ043"
+    },
+    {
+        "name": "Starlit Seer",
+        "cardCode": "01FR032"
+    },
+    {
+        "name": "Solitary Monk",
+        "cardCode": "01IO038"
+    },
+    {
+        "name": "She Who Wanders",
+        "cardCode": "01FR052"
+    },
+    {
+        "name": "Tall Tales",
+        "cardCode": "01FR051"
+    },
+    {
+        "name": "Noxian Guillotine",
+        "cardCode": "01NX022"
+    },
+    {
+        "name": "Caustic Cask",
+        "cardCode": "01PZ047"
+    },
+    {
+        "name": "Warden's Prey",
+        "cardCode": "01SI026"
+    },
+    {
+        "name": "Discipline of Force",
+        "cardCode": "01IO012T1"
+    },
+    {
+        "name": "Vanguard Redeemer",
+        "cardCode": "01DE054"
+    },
+    {
+        "name": "Karma's Insight of Ages",
+        "cardCode": "01IO041T2"
+    },
+    {
+        "name": "Shadowshift",
+        "cardCode": "01IO039"
+    },
+    {
+        "name": "Crimson Awakener",
+        "cardCode": "01NX032"
+    },
+    {
+        "name": "Mageseeker Investigator",
+        "cardCode": "01DE023"
+    },
+    {
+        "name": "Kato The Arm",
+        "cardCode": "01NX024"
+    },
+    {
+        "name": "Vile Feast",
+        "cardCode": "01SI040"
+    },
+    {
+        "name": "They Who Endure",
+        "cardCode": "01FR034"
+    },
+    {
+        "name": "Cithria the Bold",
+        "cardCode": "01DE051"
+    },
+    {
+        "name": "Yone, Windchaser",
+        "cardCode": "01IO056"
+    },
+    {
+        "name": "Ki Guardian",
+        "cardCode": "01IO055"
+    },
+    {
+        "name": "Redoubled Valor",
+        "cardCode": "01DE044"
+    },
+    {
+        "name": "The Ruination",
+        "cardCode": "01SI015"
+    },
+    {
+        "name": "Thresh",
+        "cardCode": "01SI052T1"
+    },
+    {
+        "name": "Guile",
+        "cardCode": "01NX049"
+    },
+    {
+        "name": "Babbling Bjerg",
+        "cardCode": "01FR007"
+    },
+    {
+        "name": "Garen",
+        "cardCode": "01DE012"
+    },
+    {
+        "name": "Spinning Axe",
+        "cardCode": "01NX020T1"
+    },
+    {
+        "name": "Avarosan Sentry",
+        "cardCode": "01FR003"
+    },
+    {
+        "name": "Soulgorger",
+        "cardCode": "01SI055"
+    },
+    {
+        "name": "Fading Memories",
+        "cardCode": "01SI047"
+    },
+    {
+        "name": "Subpurrsible",
+        "cardCode": "02PZ001"
+    },
+    {
+        "name": "Shellshocker ",
+        "cardCode": "02BW040"
+    },
+    {
+        "name": "Wolfrider",
+        "cardCode": "02FR009"
+    },
+    {
+        "name": "Veteran Investigator",
+        "cardCode": "02PZ010"
+    },
+    {
+        "name": "The Leviathan",
+        "cardCode": "02NX001"
+    },
+    {
+        "name": "Slippery Waverider",
+        "cardCode": "02BW057"
+    },
+    {
+        "name": "Loyal Badgerbear",
+        "cardCode": "02DE003"
+    },
+    {
+        "name": "Sap Magic",
+        "cardCode": "02SI005"
+    },
+    {
+        "name": "Gangplank",
+        "cardCode": "02BW032"
+    },
+    {
+        "name": "The Beast Below",
+        "cardCode": "02BW041"
+    },
+    {
+        "name": "Gangplank's Parrrley",
+        "cardCode": "02BW032T2"
+    },
+    {
+        "name": "Gotcha!",
+        "cardCode": "02PZ006"
+    },
+    {
+        "name": "Prowling Cutthroat",
+        "cardCode": "02BW013"
+    },
+    {
+        "name": "Deadbloom Wanderer",
+        "cardCode": "02SI010"
+    },
+    {
+        "name": "Powder Monkey",
+        "cardCode": "02BW034T1"
+    },
+    {
+        "name": "Devour",
+        "cardCode": "02BW056T1"
+    },
+    {
+        "name": "Pocket Aces",
+        "cardCode": "02BW061"
+    },
+    {
+        "name": "Crackshot Corsair",
+        "cardCode": "02BW060"
+    },
+    {
+        "name": "Swain",
+        "cardCode": "02NX007T2"
+    },
+    {
+        "name": "Miss Fortune's Make it Rain",
+        "cardCode": "02BW022T3"
+    },
+    {
+        "name": "Yordle Grifter",
+        "cardCode": "02BW011"
+    },
+    {
+        "name": "Miss Fortune",
+        "cardCode": "02BW022"
+    },
+    {
+        "name": "Keelbreaker",
+        "cardCode": "02BW030T2"
+    },
+    {
+        "name": "Caught in the Cold",
+        "cardCode": "02FR004"
+    },
+    {
+        "name": "Bubble Bear",
+        "cardCode": "02BW019"
+    },
+    {
+        "name": "Brash Gambler",
+        "cardCode": "02BW007"
+    },
+    {
+        "name": "Vault Breaker",
+        "cardCode": "02PZ004"
+    },
+    {
+        "name": "Coral Creatures",
+        "cardCode": "02BW014"
+    },
+    {
+        "name": "Citybreaker",
+        "cardCode": "02NX006"
+    },
+    {
+        "name": "Greathorn Companion",
+        "cardCode": "02DE008"
+    },
+    {
+        "name": "Resonating Strike",
+        "cardCode": "02IO008T1"
+    },
+    {
+        "name": "Double Trouble",
+        "cardCode": "02BW024"
+    },
+    {
+        "name": "Island Navigator",
+        "cardCode": "02BW062"
+    },
+    {
+        "name": "Jagged Taskmaster",
+        "cardCode": "02BW055"
+    },
+    {
+        "name": "Sapling",
+        "cardCode": "02SI008T3"
+    },
+    {
+        "name": "Tail of the Dragon",
+        "cardCode": "02IO005T1"
+    },
+    {
+        "name": "Greenfang Warden",
+        "cardCode": "02DE004"
+    },
+    {
+        "name": "Shipwreck Hoarder",
+        "cardCode": "02BW030"
+    },
+    {
+        "name": "Quinn's Blinding Assault",
+        "cardCode": "02DE006T3"
+    },
+    {
+        "name": "Thorny Toad",
+        "cardCode": "02SI007"
+    },
+    {
+        "name": "Strong-arm",
+        "cardCode": "02BW003"
+    },
+    {
+        "name": "Citrus Courier",
+        "cardCode": "02BW017"
+    },
+    {
+        "name": "Terror of the Tides",
+        "cardCode": "02SI003"
+    },
+    {
+        "name": "Swain's Ravenous Flock",
+        "cardCode": "02NX007T1"
+    },
+    {
+        "name": "Miss Fortune",
+        "cardCode": "02BW022T2"
+    },
+    {
+        "name": "Dragon's Protection",
+        "cardCode": "02IO002T1"
+    },
+    {
+        "name": "Insightful Investigator",
+        "cardCode": "02PZ007"
+    },
+    {
+        "name": "Devourer of the Depths",
+        "cardCode": "02BW056"
+    },
+    {
+        "name": "Fizz",
+        "cardCode": "02BW046T3"
+    },
+    {
+        "name": "Valor",
+        "cardCode": "02DE006T2"
+    },
+    {
+        "name": "Chum the Waters",
+        "cardCode": "02BW025"
+    },
+    {
+        "name": "Bullet Time",
+        "cardCode": "02BW022T4"
+    },
+    {
+        "name": "Grizzled Ranger",
+        "cardCode": "02DE009"
+    },
+    {
+        "name": "Lee Sin",
+        "cardCode": "02IO006"
+    },
+    {
+        "name": "Zap Sprayfin",
+        "cardCode": "02BW038"
+    },
+    {
+        "name": "Razorscale Hunter",
+        "cardCode": "02BW021"
+    },
+    {
+        "name": "Love Tap",
+        "cardCode": "02BW022T1"
+    },
+    {
+        "name": "Neverglade Collector",
+        "cardCode": "02SI001"
+    },
+    {
+        "name": "Gold Card",
+        "cardCode": "02BW026T5"
+    },
+    {
+        "name": "Treasure Trove",
+        "cardCode": "02BW030T1"
+    },
+    {
+        "name": "Chief Mechanist Zevi",
+        "cardCode": "02PZ002"
+    },
+    {
+        "name": "More Powder!",
+        "cardCode": "02BW012"
+    },
+    {
+        "name": "Maokai's Sap Magic",
+        "cardCode": "02SI008T1"
+    },
+    {
+        "name": "Aurok Glinthorn ",
+        "cardCode": "02NX002"
+    },
+    {
+        "name": "Unyielding Spirit",
+        "cardCode": "02DE005"
+    },
+    {
+        "name": "Sheriff Lariette Rose",
+        "cardCode": "02BW035"
+    },
+    {
+        "name": "Overgrown Snapvine",
+        "cardCode": "02SI002"
+    },
+    {
+        "name": "Horns of the Dragon",
+        "cardCode": "02IO004"
+    },
+    {
+        "name": "Jagged Butcher",
+        "cardCode": "02BW058"
+    },
+    {
+        "name": "Twisted Fate",
+        "cardCode": "02BW026T3"
+    },
+    {
+        "name": "Cannon Barrage",
+        "cardCode": "02BW028T1"
+    },
+    {
+        "name": "Parrrley",
+        "cardCode": "02BW018"
+    },
+    {
+        "name": "Abyssal Eye",
+        "cardCode": "02BW037"
+    },
+    {
+        "name": "Dragonling",
+        "cardCode": "02IO003T1"
+    },
+    {
+        "name": "Sejuani",
+        "cardCode": "02FR002"
+    },
+    {
+        "name": "Jailbreak",
+        "cardCode": "02BW048"
+    },
+    {
+        "name": "Pick a Card",
+        "cardCode": "02BW043"
+    },
+    {
+        "name": "Ember Maiden",
+        "cardCode": "02FR001"
+    },
+    {
+        "name": "Petty Officer B",
+        "cardCode": "02BW008T02"
+    },
+    {
+        "name": "Petty Officer A",
+        "cardCode": "02BW008T01"
+    },
+    {
+        "name": "Playful Trickster",
+        "cardCode": "02BW051"
+    },
+    {
+        "name": "Riptide",
+        "cardCode": "02BW054"
+    },
+    {
+        "name": "Blighted Caretaker",
+        "cardCode": "02SI004"
+    },
+    {
+        "name": "Lee Sin",
+        "cardCode": "02IO006T1"
+    },
+    {
+        "name": "Twisted Fate's Pick a Card",
+        "cardCode": "02BW026T1"
+    },
+    {
+        "name": "Eye of the Dragon",
+        "cardCode": "02IO003"
+    },
+    {
+        "name": "Nautilus's Riptide",
+        "cardCode": "02BW053T2"
+    },
+    {
+        "name": "Claws of the Dragon",
+        "cardCode": "02IO001"
+    },
+    {
+        "name": "Maokai",
+        "cardCode": "02SI008"
+    },
+    {
+        "name": "Vi",
+        "cardCode": "02PZ008"
+    },
+    {
+        "name": "Barkbeast",
+        "cardCode": "02SI006"
+    },
+    {
+        "name": "Dreg Dredgers",
+        "cardCode": "02BW047"
+    },
+    {
+        "name": "Ravenous Flock",
+        "cardCode": "02NX009"
+    },
+    {
+        "name": "Petty Officer",
+        "cardCode": "02BW008"
+    },
+    {
+        "name": "Swain",
+        "cardCode": "02NX007"
+    },
+    {
+        "name": "Nautilus",
+        "cardCode": "02BW053"
+    },
+    {
+        "name": "Stormclaw Ursine",
+        "cardCode": "02FR005T1"
+    },
+    {
+        "name": "Gangplank",
+        "cardCode": "02BW032T3"
+    },
+    {
+        "name": "Shared Spoils",
+        "cardCode": "02FR010"
+    },
+    {
+        "name": "Dreadway Deckhand",
+        "cardCode": "02BW004"
+    },
+    {
+        "name": "The Dreadway",
+        "cardCode": "02BW002"
+    },
+    {
+        "name": "Powder Keg",
+        "cardCode": "02BW032T1"
+    },
+    {
+        "name": "Concussive Palm",
+        "cardCode": "02IO005"
+    },
+    {
+        "name": "Imperial Demolitionist",
+        "cardCode": "02NX004"
+    },
+    {
+        "name": "Slotbot",
+        "cardCode": "02BW016"
+    },
+    {
+        "name": "Vicious Platewyrm",
+        "cardCode": "02BW030T4"
+    },
+    {
+        "name": "Blinding Assault",
+        "cardCode": "02DE002"
+    },
+    {
+        "name": "Noxian Fervor",
+        "cardCode": "02NX003"
+    },
+    {
+        "name": "The Tuskraider",
+        "cardCode": "02FR008"
+    },
+    {
+        "name": "Sejuani's Fury of the North",
+        "cardCode": "02FR002T1"
+    },
+    {
+        "name": "Dragon's Rage",
+        "cardCode": "02IO006T3"
+    },
+    {
+        "name": "Trail of Evidence",
+        "cardCode": "02PZ009"
+    },
+    {
+        "name": "Genevieve Elmheart",
+        "cardCode": "02DE010"
+    },
+    {
+        "name": "Scales of the Dragon",
+        "cardCode": "02IO002"
+    },
+    {
+        "name": "Twisted Fate",
+        "cardCode": "02BW026"
+    },
+    {
+        "name": "Hunting Fleet",
+        "cardCode": "02BW027"
+    },
+    {
+        "name": "Sejuani",
+        "cardCode": "02FR002T3"
+    },
+    {
+        "name": "Retreat",
+        "cardCode": "02IO010"
+    },
+    {
+        "name": "Mind Meld",
+        "cardCode": "02BW042"
+    },
+    {
+        "name": "Ranger's Resolve",
+        "cardCode": "02DE007"
+    },
+    {
+        "name": "Scrapshot",
+        "cardCode": "02BW059"
+    },
+    {
+        "name": "Fury of the North",
+        "cardCode": "02FR007"
+    },
+    {
+        "name": "Powderful Explosion",
+        "cardCode": "02BW032T4"
+    },
+    {
+        "name": "Smooth Soloist",
+        "cardCode": "02BW050"
+    },
+    {
+        "name": "Quinn",
+        "cardCode": "02DE006T1"
+    },
+    {
+        "name": "Riptide Rex",
+        "cardCode": "02BW028"
+    },
+    {
+        "name": "Lure of the Depths",
+        "cardCode": "02BW023"
+    },
+    {
+        "name": "Sapling Toss",
+        "cardCode": "02SI009"
+    },
+    {
+        "name": "Suit Up!",
+        "cardCode": "02PZ003"
+    },
+    {
+        "name": "Double Up",
+        "cardCode": "02BW031"
+    },
+    {
+        "name": "Monkey Idol",
+        "cardCode": "02BW034"
+    },
+    {
+        "name": "Maokai",
+        "cardCode": "02SI008T2"
+    },
+    {
+        "name": "Armored Tuskrider",
+        "cardCode": "02NX010"
+    },
+    {
+        "name": "Concerted Strike",
+        "cardCode": "02DE001"
+    },
+    {
+        "name": "Dragon's Rage",
+        "cardCode": "02IO007"
+    },
+    {
+        "name": "Salvage",
+        "cardCode": "02BW029"
+    },
+    {
+        "name": "The Syren",
+        "cardCode": "02BW015"
+    },
+    {
+        "name": "Plunder Poro",
+        "cardCode": "02BW010"
+    },
+    {
+        "name": "Pool Shark",
+        "cardCode": "02BW009"
+    },
+    {
+        "name": "Hired Gun",
+        "cardCode": "02BW005"
+    },
+    {
+        "name": "Fizz",
+        "cardCode": "02BW046"
+    },
+    {
+        "name": "Pilfered Goods",
+        "cardCode": "02BW049"
+    },
+    {
+        "name": "Ursine Spiritwalker",
+        "cardCode": "02FR005"
+    },
+    {
+        "name": "Jaull Hunters",
+        "cardCode": "02BW039"
+    },
+    {
+        "name": "Platewyrm Egg",
+        "cardCode": "02BW030T3"
+    },
+    {
+        "name": "Mystifying Magician",
+        "cardCode": "02BW006"
+    },
+    {
+        "name": "Longtooth",
+        "cardCode": "02BW046T2"
+    },
+    {
+        "name": "Vi",
+        "cardCode": "02PZ008T2"
+    },
+    {
+        "name": "Blue Card",
+        "cardCode": "02BW026T2"
+    },
+    {
+        "name": "Quinn",
+        "cardCode": "02DE006"
+    },
+    {
+        "name": "Ye Been Warned",
+        "cardCode": "02BW001"
+    },
+    {
+        "name": "Lee Sin's Dragon's Rage",
+        "cardCode": "02IO006T2"
+    },
+    {
+        "name": "Return",
+        "cardCode": "02IO010T1"
+    },
+    {
+        "name": "Red Card",
+        "cardCode": "02BW026T4"
+    },
+    {
+        "name": "Deep Meditation",
+        "cardCode": "02IO009"
+    },
+    {
+        "name": "Sleight of Hand",
+        "cardCode": "02BW063"
+    },
+    {
+        "name": "Golden Narwhal",
+        "cardCode": "02BW036"
+    },
+    {
+        "name": "Make it Rain",
+        "cardCode": "02BW045"
+    },
+    {
+        "name": "Black Market Merchant",
+        "cardCode": "02BW033"
+    },
+    {
+        "name": "Black Powder Grenade",
+        "cardCode": "02NX004T1"
+    },
+    {
+        "name": "Crackshot",
+        "cardCode": "02BW060T1"
+    },
+    {
+        "name": "Vi's Vault Breaker",
+        "cardCode": "02PZ008T1"
+    },
+    {
+        "name": "Warning Shot",
+        "cardCode": "02BW020"
+    },
+    {
+        "name": "Death's Hand",
+        "cardCode": "02NX008"
+    },
+    {
+        "name": "Patrol Wardens",
+        "cardCode": "02PZ005"
+    },
+    {
+        "name": "Iron Ballista",
+        "cardCode": "02NX005"
+    },
+    {
+        "name": "Ruthless Raider",
+        "cardCode": "02FR006"
+    },
+    {
+        "name": "Fizz's Playful Trickster",
+        "cardCode": "02BW046T1"
+    },
+    {
+        "name": "Nautilus",
+        "cardCode": "02BW053T1"
+    },
+    {
+        "name": "Jettison",
+        "cardCode": "02BW044"
+    },
+    {
+        "name": "Sonic Wave",
+        "cardCode": "02IO008"
+    },
+    {
+        "name": "Aurora Porealis",
+        "cardCode": "02FR003"
+    }
+]
